@@ -1,6 +1,10 @@
-header.home {
+.header {
 	background-color: #f5f5f5;
-	font-family: 'Arimo', sans-serif;
-	font-weight: bold;
+	padding: 50px;
+
+	font-family: ff-dagny-web-pro, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 30px;
 	text-align: center;
 }
